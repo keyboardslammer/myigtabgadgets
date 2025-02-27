@@ -1,5 +1,5 @@
 <Module>
-<ModulePrefs title="WillyWeather Widget" category="tools" description="Automatic location weather widget" scrolling="true" render_inline="optional" thumbnail="https://weatherwidget.org/img/widgets/horizontal/1_Horizontal_Weather_Widget_Day_Paris.png" height="228">
+<ModulePrefs title="WillyWeather Widget" category="tools" description="Automatic location weather widget" scrolling="true" render_inline="true">
 </ModulePrefs>
 <Content type="html" view="home">
 <div style="width: 300px;"><iframe style="display: block;" src="https://cdnres.willyweather.com/widget/loadView.html?id=156598" width="300" height="228" frameborder="0" scrolling="no"></iframe><a style="height: 20px;margin: -20px 0 0 0;z-index: 1;display: block;position: relative;text-indent: -9999em" href="https://www.willyweather.com/il/cook-county/chicago.html" rel="nofollow">chicago&#039;s weather</a></div>
